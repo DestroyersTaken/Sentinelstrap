@@ -25,13 +25,13 @@
 
 **Keep every window in reach.** Live previews of each Roblox window with CPU, memory and volume. Rejoin after a disconnect, quiet the windows you aren't using, and look back at every server you visited.
 
-**Make it yours.** 12 looks with a living background, your own colors and fonts, picture or video wallpapers, a widget Home you arrange by dragging, launch screens that show the game you're joining (or look like the classic Roblox launchers), and custom cursors and fonts inside Roblox.
+**Make it yours.** 13 looks (Halloween included) with a living background and snow, shooting stars or bats, your own colors and fonts, picture or video wallpapers, a widget Home you arrange by dragging, launch screens that show the game you're joining (or look like the classic Roblox launchers), and custom cursors and fonts inside Roblox.
 
 **Find anything.** Ctrl+K searches commands, settings, games, accounts, friends and servers.
 
 ## The website extension
 
-![The Sentinelstrap panel on a Roblox game page, with the live Aurora site theme](images/extension.png)
+![The Sentinelstrap panel on a Roblox game page, with the live Halloween site theme](images/extension.png)
 
 The Sentinelstrap extension for Chrome, Edge, Brave, Opera and Vivaldi adds a panel to roblox.com:
 
@@ -40,7 +40,7 @@ The Sentinelstrap extension for Chrome, Edge, Brave, Opera and Vivaldi adds a pa
 - **You:** friends online with Join, your games with one-click Play, search, and who unfriended you.
 - **Items and trades:** resale charts, optional Rolimons values and a trade panel that shows who comes out ahead.
 - **Play as any saved account** from a game page, a game tile or a right-click.
-- **Site themes:** live Aurora, Synthwave and Nebula themes, eight still ones, or your own colors and picture.
+- **Site themes:** live Halloween, Aurora, Synthwave and Nebula themes with bats, snow or shooting stars, eight still ones, or your own colors and picture.
 
 Add it from Sentinelstrap: **Settings → Connections → Roblox website → Set up**. It takes about a minute, then connects and updates by itself.
 
