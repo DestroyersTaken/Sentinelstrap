@@ -42,7 +42,7 @@ The Sentinelstrap extension for Chrome, Edge, Brave, Opera and Vivaldi adds a pa
 - **Play as any saved account** from a game page, a game tile or a right-click.
 - **Site themes:** live Halloween, Aurora, Synthwave and Nebula themes with bats, snow or shooting stars, eight still ones, or your own colors and picture.
 
-Add it from Sentinelstrap: **Settings → Connections → Roblox website → Set up**. It takes about a minute, then connects and updates by itself.
+Get it from the **[Chrome Web Store](https://chromewebstore.google.com/detail/sentinelstrap-for-roblox/fmmgnackbjngeppdeofephlidjhpifnc)** (works in Chrome, Edge, Brave, Opera and Vivaldi), or from Sentinelstrap: **Settings → Connections → Roblox website → Set up**. It connects to the app by itself.
 
 ![Built-in looks](images/looks.png)
 
